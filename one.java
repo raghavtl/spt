@@ -1,4 +1,4 @@
-public class shahid
+class shahid
 {
 	public static void main(String []args)
 	{
